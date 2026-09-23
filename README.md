@@ -11,10 +11,7 @@
 
 <img width="512" height="370,5" alt="Fd" src="https://github.com/user-attachments/assets/ac592585-0887-4a03-ac21-41fff926e1a9" />
 
-
-
-  
-  <br/> 
+ <br/> 
 
 
 
