@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  Subtitle edit
+  Subtitle Edit
 
  > **It is a free and open source program designed to create, edit, translate, and synchronize video subtitles.**
   
