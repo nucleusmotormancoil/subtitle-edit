@@ -14,12 +14,14 @@
   </tr>
   <tr>
     <td align="center">
-      <img width="494" height="331" alt=<img width="635" height="650" alt=<img width="1024" height="741" alt="Без имени-edited-free (carve photos)-Photoroom(1)" src="https://github.com/user-attachments/assets/6efaf56d-dc1e-4fc0-9fd4-93a0fd5bf8f4" />
+      <img width="494" height="331" alt=<img width="635" height="650" alt=<img width="1024" height="741" alt="<img width="1024" height="741" alt="Fd" src="https://github.com/user-attachments/assets/cbb0f5fa-829c-47f1-8efc-31bddde55caa" />
+
 
 
    </td>
     <td align="center">
-      <img width="709" height="423" alt=<img width="2550" height="1439" alt=<img width="1027" height="707" alt="image" src="https://github.com/user-attachments/assets/7b439283-146c-4fe3-97f6-1806d7bd03ed" />
+      <img width="709" height="423" alt=<img width="2550" height="1439" alt=<img width="1027" height="707" alt="<img width="1027" height="707" alt="image" src="https://github.com/user-attachments/assets/98f67709-a8f9-4b81-9eb2-0e775c55879a" />
+
 
 
   
