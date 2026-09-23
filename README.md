@@ -9,8 +9,8 @@
   <br/> 
 <table>
   <tr>
-    <th width="40%"></th>
-    <th width="60%"></th>
+    <th width="30%"></th>
+    <th width="80%"></th>
   </tr>
   <tr>
     <td align="center">
